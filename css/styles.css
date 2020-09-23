@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #b1d3e3;
+}
+
+li{
+    color: blueviolet;
+}
